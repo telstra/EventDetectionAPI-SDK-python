@@ -1,6 +1,5 @@
 # Telstra_EventDetection
 
-
 - API version: 1.0.0
 - Package version: 1.0.0
 
